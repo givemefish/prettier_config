@@ -5,7 +5,7 @@
   "main": "index.json",
   "homepage": "https://github.com/givemefish/jc_prettier_config",
   "repository": {
-    "type": "github",
+    "type": "git",
     "url": "https://github.com/givemefish/jc_prettier_config.git"
   },
   "keywords": [
