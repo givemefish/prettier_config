@@ -1,0 +1,16 @@
+{
+  "name": "@givemefish/prettier_config",
+  "version": "1.0.0",
+  "description": "Jim Chen's Prettier configuration",
+  "main": "index.json",
+  "homepage": "https://github.com/givemefish/jc_prettier_config",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/givemefish/jc_prettier_config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Chia-Chun Chen <givemefish@gmail.com>",
+  "license": "MIT"
+}
